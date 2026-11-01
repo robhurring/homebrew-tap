@@ -1,9 +1,9 @@
-# robhurring/taps
+# robhurring/tap
 
 Homebrew packages for my projects.
 
 ```sh
-brew tap robhurring/taps
+brew tap robhurring/tap
 brew install --cask leaf
 ```
 
